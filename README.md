@@ -1,5 +1,5 @@
 # AI-Based Plant Disease Detection and Treatment Guidance
-
+live demo:https://ai-based-plant-disease-detection-and.onrender.com
 **Final-Year Computer Science & Engineering (CSE) Capstone Project**  
 *Domain:* Artificial Intelligence • Computer Vision • Agricultural Technology (AgTech)
 
